@@ -1,0 +1,3 @@
+T001|Dr. Sharma|Data Structures|CSE
+T002|Dr. Verma|Operating Systems|CSE
+T003|Dr. Singh|Database Management|CSE
